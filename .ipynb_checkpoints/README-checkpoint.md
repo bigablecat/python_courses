@@ -6,9 +6,5 @@
 * 课程官方视频地址  
 	* https://www.bilibili.com/video/BV1dD4y127bD  
 * python 协程的基本概念和常见应用场景代码示例  
+* 笔记和代码以 .ipynb 格式呈现  
 
-### https://www.bilibili.com/video/BV1na411c7vZ  
-### [《Python 笔试题》](/python_interview)  
-* 课程官方视频地址  
-	* https://www.bilibili.com/video/BV1na411c7vZ  
-* python 常见笔试题  
